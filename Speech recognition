@@ -1,0 +1,3 @@
+# speech-recognition
+Recognises the text from speech and allocates under which label it should be placed either in sad or happy 
+https://colab.research.google.com/drive/1NEitUyuIYChHz-HrJbFucxXOcE-H38pL?usp=sharing
